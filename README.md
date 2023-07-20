@@ -1,7 +1,5 @@
 # Wenqian Weng's GitHub Profile
 
-![Profile Picture](profile_picture.jpg)
-
 ## About Me
 Hello there! I'm Wenqian Weng, a passionate and dedicated individual with a background in Computer Science and Data Analytics. I'm excited to explore new technologies and contribute to exciting projects. Here's a bit more about me:
 
