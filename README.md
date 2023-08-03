@@ -11,7 +11,7 @@ Hello there! I'm Wenqian Weng, a passionate and dedicated individual with a back
 
 ## Education
 - **University of Washington, Seattle, WA**
-  - Master of Science, Major in Information System
+  - Master of Science, Major in Information Science
   - Jun 2023 - Jun 2024
 
 - **University of California, Davis, CA**
