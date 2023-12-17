@@ -24,12 +24,5 @@ I'm Wenqian Weng, a dedicated individual with a robust background in Computer Sc
 - **Languages**: Chinese (Native), English (Fluent)
 
 
-## Other Projects
-- **Academic Administration Portal Project** (Personal Development, Mar 2023): Developed a comprehensive Spring Boot MVC application with RESTful APIs.
-- **Full-Stack Web Development Project** (Personal Development, Aug 2023): Built a Feedback-Collection App using React, Redux, Express, and MongoDB.
-
-## Professional Experience
-- **Software Engineer, Style Group Inc, San Jose, CA** (Aug 2022 - Mar 2023): Contributed to the development of an Online Video Class Platform.
-- **Data Analyst (Intern), China Electronics Corporation, Beijing, China** (Feb 2021 - Sep 2021): Participated in the TOCC project for traffic congestion analysis using Big Data.
 
 
