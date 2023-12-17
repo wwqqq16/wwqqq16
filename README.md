@@ -1,7 +1,7 @@
 # Wenqian Weng's GitHub Profile
 
 ## Introduction
-I'm Wenqian Weng, a dedicated individual with a robust background in Computer Science. Currently based in Seattle, I'm immersed in the realm of cloud computing and machine learning.
+I'm Wenqian Weng, a dedicated individual with a robust background in Computer Science. I'm immersed in the realm of cloud computing and machine learning.
 
 ## What I'm Learning
 - **Cloud Computing**: Diving deep into AWS and Azure to understand and leverage their vast potential.
